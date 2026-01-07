@@ -1,15 +1,3 @@
-fais le readme:
-11:44
-
-Je vais créer le README pour le projet calculator en suivant les exigences du TD.
-
-Voici le README avec tous les éléments demandés dans le TD : nom du projet, description, instructions d'installation des dépendances, d'exécution de l'application et des tests.
-Readme
-Document · MD 
-
-
-Claude est une IA et peut faire des erreurs. Veuillez vérifier les réponses.
-Readme · MD
 # Calculator
 
 Une calculatrice simple en Python permettant d'effectuer des opérations arithmétiques de base.
